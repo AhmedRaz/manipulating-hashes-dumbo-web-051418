@@ -10,9 +10,5 @@ def second_challenge
 
   #code your solution here!
   groceries_level1 = groceries.values.flatten 
-  binding.pry
-
   
 end
-
-second_challenge
