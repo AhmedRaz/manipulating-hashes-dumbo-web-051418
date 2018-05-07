@@ -9,7 +9,7 @@ def second_challenge
   }
 
   #code your solution here!
-  groceries.values 
+  groceries_level1 = groceries.values 
   binding.pry
 
   
